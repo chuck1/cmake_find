@@ -1,7 +1,7 @@
 
 FIND_PACKAGE(CMakeHelper)
 
-SET(components core gfx physx final python)
+SET(components core gfx physx final python ext)
 SET(pkg_name Nebula)
 
 
